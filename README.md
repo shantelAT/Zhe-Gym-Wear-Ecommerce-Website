@@ -1,4 +1,4 @@
-# Zhe-Gym-Wear-Ecommerce-Website
+# Zheé-Gym-Wear-Ecommerce-Website
 
 
 We sell comfortable, affordable, and unique design gym wear for women. The website consists of 4 pages. They are 
