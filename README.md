@@ -1,7 +1,7 @@
 # Zhe-Gym-Wear-Ecommerce-Website
 
 
-Well sell comfortable, affordable,  and unique design gym wear for women. The website consists of 4 pages. They are 
+We sell comfortable, affordable, and unique design gym wear for women. The website consists of 4 pages. They are 
 1.	Home page (about us, FAQ and Policy), 
 2.	Store- This playing all the products and will allow customer to filter by and search.
 3.	Product page – when customer click on a product this page populate the product’s detail.
